@@ -3,7 +3,7 @@
 
 扫描下方二维码添加我的微信：
 
-<img src="wechat-qrcode.png" width="200" alt="微信二维码">
+<img src="images/wechat-qrcode.png" width="200" alt="微信二维码">
 
 <!--
 **lekliu/lekliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
