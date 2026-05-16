@@ -1,5 +1,9 @@
 ### 🔭 I’m currently working on AI project development.
+### 联系我 / Contact Me
 
+扫描下方二维码添加我的微信：
+
+![微信二维码](images/wechat-qrcode.png)
 
 <!--
 **lekliu/lekliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
